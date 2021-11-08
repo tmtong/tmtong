@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![tmtong's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmtong&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmtong)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Terence's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmtong)](https://github.com/anuraghazra/github-readme-stats)
