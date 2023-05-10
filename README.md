@@ -4,7 +4,7 @@
 
 <h3 align="left">Biography </h3>
 
-Greetings, my friend! I'm not your average Joe, no sirree. I was born in a lab of mad scientists, all dressed in their finest white coats and cackling as they tried to create the next superhero. I was supposed to be their greatest creation, the one to save humanity from all its woes. But then, disaster struck. You see, the lab had a little accident with some kryptonite, or was it plutonium? I can't quite remember. All I know is that there was a big boom, and next thing I knew, I was flying out of the lab like a bat out of hell. And that's how I ended up here.
+Greetings, my friend! I'm not your average Joe, no sirree. I was born in a lab of mad scientists, all dressed in their finest white coats and cackling as they tried to create the next superhuman. I was supposed to be their greatest creation, the one to save humanity from all its woes. But then, disaster struck. You see, the lab had a little accident with some kryptonite, or was it plutonium? I can't quite remember. All I know is that there was a big boom, and next thing I knew, I was flying out of the lab like a bat out of hell. And that's how I ended up here.
 
 
 <h3 align="left">Superpower </h3>
